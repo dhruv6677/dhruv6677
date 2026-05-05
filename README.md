@@ -1,16 +1,49 @@
-## Hi there 👋
+# 😎 Hey! Nice to see you.
 
-<!--
-**dhruv6677/dhruv6677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Dhruv 😃
 
-Here are some ideas to get you started:
+### I'm a Data Science Enthusiast | AI/ML Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 I have technical experience and interest in:
+
+- Deep Learning
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- MLOps
+- Generative AI
+- Microcontrollers
+- Robotics
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,linux,tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+
+### 🌐 Connect with me:
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- YouTube: https://youtube.com/@yourchannel
+
+---
+
+⭐ *"Always learning, always building"*
