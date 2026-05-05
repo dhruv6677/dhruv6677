@@ -1,4 +1,4 @@
-# 😎 Hey! Nice to see you.
+# 😎 Hi!.
 
 ## I'm Dhruv 😃
 
