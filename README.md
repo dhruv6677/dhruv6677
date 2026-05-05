@@ -14,8 +14,7 @@
 - Natural Language Processing
 - MLOps
 - Generative AI
-- Microcontrollers
-- Robotics
+- Full stack Data science 
 
 ---
 
@@ -29,20 +28,20 @@
 
 ### 📊 GitHub Stats:
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv6677&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 Streak Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dhruv6677&theme=radical)
 
 ---
 
 ### 🌐 Connect with me:
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- YouTube: https://youtube.com/@yourchannel
+- LinkedIn: https://www.linkedin.com/in/dhruv-tomar-2b5110306/
+- Leetcode: https://leetcode.com/u/Dhruv_tomar/
 
 ---
 
