@@ -5,6 +5,7 @@
 ### I'm a Data Science Enthusiast | AI/ML Learner
 
 ---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🚀 I have technical experience and interest in:
 
@@ -25,16 +26,10 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruv6677&show_icons=true&theme=radical)
-
----
-
-### 🔥 Streak Stats:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dhruv6677&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dhruv6677&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dhruv6677&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhruv6677&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -46,3 +41,5 @@
 ---
 
 ⭐ *"Always learning, always building"*
+
+
